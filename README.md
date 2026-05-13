@@ -1,5 +1,7 @@
 # Portafolio Profesional - Esteban Galindo Romero
 
+🌐 **Ver portafolio en vivo:** [https://esteban570-g.github.io/mi-portafolio/](https://esteban570-g.github.io/mi-portafolio/)
+
 Bienvenido a mi repositorio de portafolio personal. Este proyecto ha sido desarrollado siguiendo los estándares de la **W3C** y aplicando una arquitectura limpia, separando la estructura (HTML), los estilos (CSS) y la lógica.
 
 ## 👤 Sobre mí
@@ -12,7 +14,7 @@ Soy un apasionado por la tecnología, **Técnico en Sistemas** y actualmente cur
 
 ### Bases de Datos
 * SQL (MySQL, SQL Workbench, SQLyog).
-* Modelado de datos: MER, ER y Modelo Físico.
+* Modelado de datos: MER, ER (Entidad-Relación) y Modelo Físico.
 
 ### Ingeniería de Software
 * Levantamiento de requerimientos.
@@ -22,12 +24,12 @@ Soy un apasionado por la tecnología, **Técnico en Sistemas** y actualmente cur
 
 ## 📚 Formación Destacada (SENA)
 * **Tecnólogo en Análisis y Desarrollo de Software** (En curso - 2025).
-* **Técnico en Sistemas** (2023).
-* **Cursos Complementarios:** Metodologías Agiles (Scrum y Kanban), Análisis de Datos en Python, Desarrollo Web con PHP e Inglés (Niveles 1-5).
+* **Técnico en Sistemas** (Finalizado en 2023).
+* **Cursos Complementarios:** Metodologías Ágiles (Scrum y Kanban), Análisis de Datos en Python, Desarrollo Web con PHP e Inglés (Niveles 1-5).
 
 ## 💼 Experiencia Laboral
-* **Venta Equipos S.A.S (UNAD):** Mantenimiento preventivo y soporte técnico (2024).
-* **CID COMPANY (Hospital de Fuentedeoro):** Soporte técnico y optimización de infraestructura (2023).
+* **Venta Equipos S.A.S (UNAD):** Mantenimiento preventivo y soporte técnico (Septiembre - Diciembre 2024).
+* **CID COMPANY (Hospital de Fuentedeoro):** Soporte técnico y optimización de infraestructura (Mayo - Noviembre 2023).
 
 ---
 *Desarrollado por Esteban Galindo Romero - 2026*
